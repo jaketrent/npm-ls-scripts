@@ -1,0 +1,22 @@
+{
+  "name": "npm-ls-scripts",
+  "version": "0.1.0",
+  "description": "List runnable npm scripts in package.json",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaketrent/npm-ls-scripts.git"
+  },
+  "keywords": [
+    "npm",
+    "npm scripts",
+    "package.json",
+    "rake -T"
+  ],
+  "author": "jaketrent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaketrent/npm-ls-scripts/issues"
+  },
+  "homepage": "https://github.com/jaketrent/npm-ls-scripts"
+}
