@@ -1,6 +1,6 @@
 {
   "name": "npm-ls-scripts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "List runnable npm scripts in package.json",
   "main": "index.js",
   "repository": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jaketrent/npm-ls-scripts/issues"
   },
-  "homepage": "https://github.com/jaketrent/npm-ls-scripts"
+  "homepage": "https://github.com/jaketrent/npm-ls-scripts",
+  "bin": {
+    "ls-scripts": "./bin/cli.js"
+  }
 }
