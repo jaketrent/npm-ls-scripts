@@ -1,3 +1,5 @@
+[Unmaintained] We had a good run. It was such a good idea, now `npm run` does this natively.  Use that instead.
+
 npm-ls-scripts
 ==============
 
